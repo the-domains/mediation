@@ -6,9 +6,9 @@ color:
   saturation: 0.09970378805883229
   rhythmicContrast: 0.7258221940137446
   brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: mediation
