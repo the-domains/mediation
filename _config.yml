@@ -1,4 +1,4 @@
-typography_spectrum: 0.21953713917173445
+typography_spectrum: 0.6953169067855924
 color:
   brandStrength: 0.31827002530917525
   lightness: 0.4292429396882653
@@ -10,7 +10,7 @@ color:
     - '#E9F1DF'
     - '#4AD9D9'
     - '#36B1BF'
-layout_spectrum: 0.8173080561682582
+layout_spectrum: 0.08278971817344427
 author:
   name: chris stephenson
   email: cwstephenson@gmail.com
